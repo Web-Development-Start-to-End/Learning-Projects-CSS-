@@ -88,7 +88,7 @@ git clone https://github.com/web-development-start-to-end/learning-projects-css.
 
 ## 👤 Author
 
-Ankush
+Ankush Saral
 
 ---
 

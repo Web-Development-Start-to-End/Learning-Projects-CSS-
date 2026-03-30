@@ -1,0 +1,36 @@
+:root {
+  --pBColour: rgb(0, 255, 145);
+  --fColour: white;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  height: 10vh;
+  width: vw;
+  background-color: var(--pBColour);
+  padding: 10px;
+
+  align-items: center;
+  color: var(--fColour);
+  text-shadow:
+    1px 1px 2px rgb(219, 197, 197),
+    0 0 1em rgb(106, 255, 233),
+    0 0 0.2em rgb(113, 113, 234);
+}
+
+nav ul {
+  display: flex;
+  justify-content: space-evenly;
+
+  position: relative;
+  top: 15px;
+}
+
+nav ul li {
+  list-style: none;
+  font-size: 25px;
+}

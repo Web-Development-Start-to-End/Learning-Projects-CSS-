@@ -48,7 +48,7 @@ A replica of the UltraEdit website layout focusing on navbar and body structure.
 
 ## 📸 Preview
  ![Preview of Bouncing Ball](https://github.com/Web-Development-Start-to-End/Learning-Projects-CSS/blob/50aeca54deb151627f2e0d189321af388a2a95a8/Bouncing%20Ball%20Animation-CSS/Preview%20of%20Bouncing%20Ball.png)
- ![Preview of Card Design](https://github.com/Web-Development-Start-to-End/Learning-Projects-CSS/blob/c9c8a55b3c40b51818754e9a247ea9329ade3f7d/Card%20Design-CSS/Card%20Design%20Preview.png)
+ ![Preview of Card Design](https://github.com/Web-Development-Start-to-End/Learning-Projects-CSS/blob/779c93f78e602b7a51784f5296688cef63de69b9/Card%20Design-CSS/Card%20Design%20Preview.png)
  ![Preview of Designing the Layout](https://github.com/Web-Development-Start-to-End/Learning-Projects-CSS/blob/c9c8a55b3c40b51818754e9a247ea9329ade3f7d/Designing%20the%20layout-CSS/Designing%20the%20layout%20Preview.png)
  ![Preview of Multicolour Navbar](https://github.com/Web-Development-Start-to-End/Learning-Projects-CSS/blob/c9c8a55b3c40b51818754e9a247ea9329ade3f7d/Designing%20the%20layout-CSS/Designing%20the%20layout%20Preview.png)
  ![Preview of Ultra Edit Navbar and Body](https://github.com/Web-Development-Start-to-End/Learning-Projects-CSS/blob/c9c8a55b3c40b51818754e9a247ea9329ade3f7d/UltraEdit%20Navbar%20and%20Body-CSS/Ultra%20Edit%20Navbar%20Preview.png)

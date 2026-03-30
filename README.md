@@ -57,7 +57,7 @@ A replica of the UltraEdit website layout focusing on navbar and body structure.
 1. Clone the repository:
 
 ```bash id="u2pxpb"
-git clone https://github.com/your-username/css-practice-projects.git
+git clone https://github.com/Web-Development-Start-to-End/Learning-Projects-CSS-/
 ```
 
 2. Open any project folder

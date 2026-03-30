@@ -9,9 +9,9 @@ A collection of practical UI and animation projects built using **HTML and CSS**
 This repository contains multiple hands-on projects focused on:
 
 * Layout design
-* Responsive UI
 * CSS animations
 * Real-world UI replication
+* Navbar Designing
 
 ---
 
@@ -47,8 +47,7 @@ A replica of the UltraEdit website layout focusing on navbar and body structure.
 ---
 
 ## 📸 Preview
-
-(Add screenshots or GIFs for each project here)
+ ![Preview of Bouncing Ball](/Bouncing Ball Animation-CSS/Preview of Bouncing Ball.png)
 
 ---
 
